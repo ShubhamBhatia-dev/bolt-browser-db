@@ -1,0 +1,22 @@
+{
+  "name": "bolt-browser-db",
+  "version": "0.0.6",
+  "description": "A Fast NoSQL Database for Browser that stores data clientside , Supports Schema .",
+  "main": "bolt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "browser-db",
+    "client",
+    "side",
+    "database",
+    "Nosql",
+    "db",
+    "IndexedDb"
+  ],
+  "author": "Shubham Bhatia",
+  "license": "MIT "
+}
