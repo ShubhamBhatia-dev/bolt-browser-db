@@ -6,13 +6,17 @@ Bolt is a JavaScript library for working with 🗂️ IndexedDB in a MongoDB-lik
 
 ## Features 🚀
 
-### **1. Initialization 🛠️**
+### **1. Installation && Initialization 🛠️**
 
 The library automatically initializes a 🗂️ database for a given store name. If the database or store does not exist, it creates one automatically.
 
 #### Example:
+```javascript
+npm install bolt-browser-db
+```
 
 ```javascript
+import Bolt from "bolt-browser-db"
 const db = new Bolt('MyStore');
 ```
 
